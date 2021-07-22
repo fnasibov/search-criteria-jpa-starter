@@ -2,3 +2,5 @@
 build
 demo-app
 */build
+.idea
+/demo-app/

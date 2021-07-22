@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.nasibov.search.criteria.jpa.configuration.SearchCriteriaJpaAutoConfiguration
